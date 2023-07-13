@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+.time {
+    text-align: center;
+}
+.btn{
+    /* text-align: center; */
+    margin-left: 45%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.container1 , .container2 , .container3{
+    display: flex;
+    justify-content: center;
+    gap:10px;
+}
